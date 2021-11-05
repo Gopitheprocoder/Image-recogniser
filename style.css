@@ -1,0 +1,15 @@
+body{
+background-color: aqua;
+color: blue;
+}
+#camera{
+    width: 360px;
+    height: 300px;
+}
+#header{
+    font-size: 22px;
+    width: 80%;
+}
+#object,#accuracy,.bold{
+    color: mediumspringgreen;
+}
